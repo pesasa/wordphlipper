@@ -71,7 +71,7 @@ var phlipdata = {
         "size": 30
     },
     "settings": {
-        "mode": "edit",
+        "mode": "view",
         "fullscreen": true
     }
 }
