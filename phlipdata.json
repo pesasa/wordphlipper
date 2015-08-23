@@ -1,0 +1,77 @@
+var phlipdata = {
+    "cards": [
+        {
+            "title": "Aarne",
+            "text": "Aarne on pojan nimi.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Bertta",
+            "text": "Bertta on tytön nimi.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Celsius",
+            "text": "Celcius on nimi ja mittayksikkö.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Daavid",
+            "text": "Daavid oli kuningas.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Eemeli",
+            "text": "Eemeli oli rasavilli poika.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Faarao",
+            "text": "Faarao oli egyptin hallitsija.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Gideon",
+            "text": "Gideonit jakavat raamattuja.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Heikki",
+            "text": "Heikki Kinnunen on näyttelijä.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Iivari",
+            "text": "Iivari on suomalainen muoto muinaisskandinaavisesta nimestä Ivar, joka on tarkoittanut 'taistelijaa, jolla on (marjakuusi)jousi'.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Jussi",
+            "text": "Jussi juhlii Juhannuksena.",
+            "image": "",
+            "isimage": false
+        },
+        {
+            "title": "Kalle",
+            "text": "Kippari-Kalle syö pinaattia.",
+            "image": "",
+            "isimage": false
+        }
+    ],
+    "config": {
+        "size": 30
+    },
+    "settings": {
+        "mode": "edit",
+        "fullscreen": true
+    }
+}
